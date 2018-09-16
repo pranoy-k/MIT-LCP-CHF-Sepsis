@@ -1,0 +1,790 @@
+Search terms used to categorize left ventricular systolic function
+
+*************************
+NORMAL
+*************************
+
+Overall normal LVEF (>55%)
+Number of Documents 8403
+First 97784
+Random 59889
+Last 73757
+
+Normal LV wall thickness, cavity size and regional/global systolic function (LVEF >55%)
+Number of Documents 3679
+First 84804
+Random 61727
+Last 101025
+
+Low normal LVEF
+Number of Documents 2388
+First 85431
+Random 92800
+Last 70271
+
+Normal LV wall thickness, cavity size, and systolic function (LVEF>55%)
+Number of Documents 6773
+First 79330
+Random 96805
+Last 101025
+
+Mild symmetric LVH with normal cavity size and regional/global systolic function (LVEF>55%)
+Number of Documents 1795
+First 86125
+Random 88745
+Last 101342
+
+Overall left ventricular systolic function is normal (LVEF>55%)
+Number of Documents 10414
+First 59764
+Random 73527
+Last 77787
+
+Normal LV wall thickness, cavity size, and global systolic function (LVEF>55%)
+Number of Documents 4938
+First 72068
+Random 90176
+Last 101025
+
+Left ventricular wall thickness, cavity size, and systolic function are normal (LVEF>55%)
+Number of Documents 7047
+First 72764
+Random 87930
+Last 92886
+
+Mild symmetric LVH with normal cavity size and systolic function (LVEF>55%)
+Number of Documents 3336
+First 65888
+Random 63242
+Last 101342
+
+Mild symmetric LVH with normal cavity size and global systolic function (LVEF>55%)
+Number of Documents 2490
+First 92166
+Random 98660
+Last 101342
+
+Overall left ventricular systolic function is low normal (LVEF 50-55%)
+Number of Documents 1725
+First 76160
+Random 61014
+Last 101178
+
+There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%)
+Number of Documents 3457
+First 100290
+Random 100095
+Last 60920
+
+Normal LV wall thickness, cavity size and regional/global function (LVEF >55%)
+Number of Documents 3681
+First 84804
+Random 83464
+Last 77000
+
+Normal LV wall thickness, cavity size, and global function (LVEF>55%)
+Number of Documents 4939
+First 72068
+Random 92524
+Last 93922
+
+Left ventricular wall thickness, cavity size, and systolic function are normal
+Number of Documents 7908
+First 72764
+Random 92920
+Last 89579
+
+There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function
+Number of Documents 3567
+First 100290
+Random 62733
+Last 99482
+
+Low normal LVEF (50-55%)
+Number of Documents 1755
+First 103494
+Random 101574
+Last 66152
+
+Hyperdynamic LVEF >75%
+Number of Documents 1364
+First 80801
+Random 75747
+Last 69771
+
+Hyperdynamic LVEF
+Number of Documents 1751
+First 80801
+Random 102800
+Last 103459
+
+Left ventricular systolic function is hyperdynamic (EF>75%)
+Number of Documents 1600
+First 72510
+Random 70024
+Last 63070
+
+Hyperdynamic left ventricular systolic function
+Number of Documents 144
+First 65202
+Random 86813
+Last 74199
+
+Hyperdynamic LVEF (>75%)
+Number of Documents 1364
+First 80801
+Random 87013
+Last 69771
+
+*************************
+MILD_MODERATE
+*************************
+
+Mildly depressed LVEF
+Number of Documents 2114
+First 92499
+Random 69124
+Last 89297
+
+Mild global LV hypokinesis
+Number of Documents 751
+First 85931
+Random 69648
+Last 69738
+
+Depressed LVEF
+Number of Documents 5600
+First 90779
+Random 77943
+Last 95854
+
+Overall left ventricular systolic function is mildly depressed
+Number of Documents 2267
+First 60789
+Random 70883
+Last 101350
+
+depressed LVEF
+Number of Documents 5600
+First 90779
+Random 100681
+Last 95854
+
+Mildly depressed LVEF (40-55%)
+Number of Documents 2
+First 68069
+Random 76961
+Last 76961
+
+global LV hypokinesis
+Number of Documents 2617
+First 78899
+Random 100979
+Last 84551
+
+LV systolic function appears depressed
+Number of Documents 806
+First 74676
+Random 84292
+Last 93641
+
+There is mild global left ventricular hypokinesis
+Number of Documents 1004
+First 72497
+Random 72264
+Last 98658
+
+Intrinsic LV systolic function depressed given the severity of valvular regurgitation
+Number of Documents 1300
+First 77788
+Random 83164
+Last 102621
+
+Moderately depressed LVEF
+Number of Documents 1633
+First 104319
+Random 82743
+Last 91611
+
+Overall left ventricular systolic function is moderately depressed
+Number of Documents 1883
+First 77094
+Random 65929
+Last 61998
+
+Moderate global LV hypokinesis
+Number of Documents 597
+First 78899
+Random 86912
+Last 84551
+
+There is moderate global left ventricular hypokinesis
+Number of Documents 1128
+First 63700
+Random 79097
+Last 69738
+
+Mild-moderate global left ventricular hypokinesis
+Number of Documents 239
+First 104387
+Random 62656
+Last 81129
+
+Moderately depressed LVEF (30-39%)
+Number of Documents 4
+First 77041
+Random 76785
+Last 104834
+
+*************************
+SEVERELY
+*************************
+
+Severely depressed LVEF
+Number of Documents 1738
+First 91830
+Random 64476
+Last 63954
+
+Severe global LV hypokinesis
+Number of Documents 1297
+First 77842
+Random 89172
+Last 99336
+
+Overall left ventricular systolic function is severely depressed
+Number of Documents 2666
+First 69719
+Random 99538
+Last 91132
+
+There is severe global left ventricular hypokinesis
+Number of Documents 1899
+First 74177
+Random 63739
+Last 59691
+
+Moderate-severe global left ventricular hypokinesis
+Number of Documents 305
+First 80202
+Random 83382
+Last 81811
+
+Severely depressed LVEF (<30%)
+Number of Documents 247
+First 96984
+Random 82176
+Last 91961
+
+-severe global left ventricular hypokinesis
+Number of Documents 1981
+First 80340
+Random 85789
+Last 89517
+
+
+****************************************************************************************************
+Search terms used to categorize left ventricular cavity function
+
+*************************
+NORMAL
+*************************
+
+Normal LV cavity size
+Number of Documents 20112
+First 98507
+Random 67527
+Last 102621
+
+Normal LV wall thickness, cavity size and regional/global systolic function (LVEF >55%)
+Number of Documents 3679
+First 84804
+Random 87440
+Last 101025
+
+The left ventricular cavity size is normal
+Number of Documents 12827
+First 59764
+Random 101028
+Last 97257
+
+Normal LV wall thickness and cavity size
+Number of Documents 9493
+First 91191
+Random 80331
+Last 97530
+
+Mild symmetric LVH with normal cavity size
+Number of Documents 5400
+First 92166
+Random 95203
+Last 77992
+
+Normal LV wall thickness, cavity size, and systolic function (LVEF>55%)
+Number of Documents 6773
+First 79330
+Random 93666
+Last 101025
+
+Mild symmetric LVH with normal cavity size and regional/global systolic function (LVEF>55%)
+Number of Documents 1795
+First 86125
+Random 96210
+Last 101342
+
+Normal LV wall thickness, cavity size, and global systolic function (LVEF>55%)
+Number of Documents 4938
+First 72068
+Random 88983
+Last 101025
+
+Left ventricular wall thickness, cavity size, and systolic function are normal (LVEF>55%)
+Number of Documents 7047
+First 72764
+Random 72353
+Last 92886
+
+Normal LV wall thicknesses and cavity size
+Number of Documents 954
+First 76051
+Random 80913
+Last 81776
+
+Mild symmetric LVH with normal cavity size and systolic function (LVEF>55%)
+Number of Documents 3336
+First 65888
+Random 66421
+Last 101342
+
+Left ventricular wall thicknesses and cavity size are normal
+Number of Documents 4332
+First 70562
+Random 91800
+Last 73922
+
+Mild symmetric LVH with normal cavity size and global systolic function (LVEF>55%)
+Number of Documents 2490
+First 92166
+Random 67995
+Last 101342
+
+There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%)
+Number of Documents 3457
+First 100290
+Random 105255
+Last 60920
+
+There is mild symmetric left ventricular hypertrophy with normal cavity size
+Number of Documents 5794
+First 100333
+Random 85818
+Last 65283
+
+The left ventricular cavity size is top normal/borderline dilated
+Number of Documents 682
+First 76752
+Random 100650
+Last 82103
+
+Normal LV wall thickness, cavity size, and global function (LVEF>55%)
+Number of Documents 4939
+First 72068
+Random 88913
+Last 93922
+
+Left ventricular wall thickness, cavity size, and systolic function are normal
+Number of Documents 7908
+First 72764
+Random 84444
+Last 89579
+
+LV cavity normal for BSA
+Number of Documents 52
+First 87773
+Random 85982
+Last 86002
+
+There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function
+Number of Documents 3567
+First 100290
+Random 68243
+Last 99482
+
+Top /borderline dilated LV cavity size
+Number of Documents 605
+First 79779
+Random 83120
+Last 66321
+
+Normal LV thickness and cavity size
+Number of Documents 9497
+First 91191
+Random 94420
+Last 97530
+
+Normal LV wall thickness, cavity size and regional/global function (LVEF >55%)
+Number of Documents 3681
+First 84804
+Random 103163
+Last 77000
+
+*************************
+MILD_MODERATE
+*************************
+
+Mildly dilated LV cavity
+Number of Documents 1222
+First 83771
+Random 87238
+Last 89591
+
+The left ventricular cavity is mildly dilated
+Number of Documents 1602
+First 97421
+Random 78685
+Last 67153
+
+Dilated LV cavity
+Number of Documents 4027
+First 83771
+Random 62414
+Last 98249
+
+The left ventricular cavity is dilated
+Number of Documents 5076
+First 72532
+Random 75855
+Last 80826
+
+Moderately dilated LV cavity
+Number of Documents 1746
+First 83010
+Random 71876
+Last 89297
+
+The left ventricular cavity is moderately dilated
+Number of Documents 2092
+First 70943
+Random 68500
+Last 68157
+
+*************************
+SEVERELY
+*************************
+
+Severely dilated LV cavity
+Number of Documents 720
+First 76714
+Random 61151
+Last 91611
+
+The left ventricular cavity is severely dilated
+Number of Documents 494
+First 103051
+Random 100776
+Last 95473
+
+
+****************************************************************************************************
+Search terms used to categorize right ventricular systolic function
+
+*************************
+NORMAL
+*************************
+
+Normal RV chamber size and free wall motion
+Number of Documents 21488
+First 79330
+Random 71537
+Last 97530
+
+Right ventricular chamber size and free wall motion are normal
+Number of Documents 24390
+First 72510
+Random 80753
+Last 62994
+
+Normal RV systolic function
+Number of Documents 4726
+First 93680
+Random 89371
+Last 68258
+
+Right ventricular systolic function is borderline normal
+Number of Documents 457
+First 74363
+Random 64935
+Last 59963
+
+Borderline normal RV systolic function
+Number of Documents 1610
+First 77274
+Random 70756
+Last 84882
+
+Right ventricular systolic function is normal
+Number of Documents 2279
+First 67817
+Random 80742
+Last 80447
+
+Right ventricular chamber size and systolic function are normal
+Number of Documents 59
+First 103494
+Random 82506
+Last 62994
+
+TASPE normal (>=1.6cm) Normal interventricular septal motion
+Number of Documents 0
+First 0
+Random 0
+Last 0
+
+TASPE normal (>=1.6cm)
+Number of Documents 25
+First 96337
+Random 95789
+Last 91690
+
+Normal RV chamber size and free motion
+Number of Documents 21496
+First 79330
+Random 84858
+Last 91938
+
+Normal RV function
+Number of Documents 5169
+First 96913
+Random 84227
+Last 84167
+
+*************************
+MILD_MODERATE
+*************************
+
+Mild global RV free wall hypokinesis
+Number of Documents 1948
+First 72282
+Random 59730
+Last 73105
+
+There is mild global right ventricular free wall hypokinesis
+Number of Documents 607
+First 59760
+Random 81776
+Last 84695
+
+Right ventricular systolic function appears depressed
+Number of Documents 1560
+First 72532
+Random 65872
+Last 64802
+
+RV function depressed
+Number of Documents 2175
+First 72228
+Random 72054
+Last 68172
+
+Mild global RV free hypokinesis
+Number of Documents 1951
+First 72282
+Random 68488
+Last 92487
+
+TASPE depressed (<1.6cm)
+Number of Documents 24
+First 94384
+Random 61591
+Last 91690
+
+TASPE depressed (<1.6cm) RV function depressed
+Number of Documents 4
+First 93861
+Random 104536
+Last 61591
+
+TASPE depressed (<1.6cm) Abnormal systolic septal motion/position consistent with RV pressure overload
+Number of Documents 1
+First 96920
+Random 96920
+Last 96920
+
+TASPE depressed (<1.6cm) Abnormal septal motion/position consistent with RV pressure/volume overload
+Number of Documents 1
+First 94200
+Random 94200
+Last 94200
+
+TASPE depressed (<1.6cm) Intrinsic RV systolic function likely more depressed given the severity of TR
+Number of Documents 2
+First 61591
+Random 61591
+Last 93861
+
+TASPE depressed (<1.6cm) Paradoxical septal motion consistent with conduction abnormality/ventricular pacing
+Number of Documents 0
+First 0
+Random 0
+Last 0
+
+TASPE depressed (<1.6cm) Normal interventricular septal motion
+Number of Documents 0
+First 0
+Random 0
+Last 0
+
+TASPE depressed (<1.6cm) Paradoxical septal motion consistent with prior cardiac surgery
+Number of Documents 0
+First 0
+Random 0
+Last 0
+
+TASPE depressed (<1.6cm) Abnormal septal motion/position
+Number of Documents 3
+First 94200
+Random 96920
+Last 96920
+
+There is moderate global right ventricular free wall hypokinesis
+Number of Documents 354
+First 70433
+Random 82699
+Last 84695
+
+Moderate global RV free wall hypokinesis
+Number of Documents 1201
+First 72060
+Random 80162
+Last 102621
+
+Moderate global RV free hypokinesis
+Number of Documents 1203
+First 72060
+Random 91722
+Last 64797
+
+*************************
+SEVERELY
+*************************
+
+There is severe global right ventricular free wall hypokinesis
+Number of Documents 494
+First 74915
+Random 63984
+Last 68600
+
+Severe global RV free wall hypokinesis
+Number of Documents 683
+First 91305
+Random 90596
+Last 94338
+
+
+****************************************************************************************************
+Search terms used to categorize right ventricular cavity function
+
+*************************
+NORMAL
+*************************
+
+Normal RV chamber size and free wall motion
+Number of Documents 21488
+First 79330
+Random 88250
+Last 97530
+
+Right ventricular chamber size and free wall motion are normal
+Number of Documents 24390
+First 72510
+Random 83933
+Last 62994
+
+Normal RV chamber size
+Number of Documents 24647
+First 75515
+Random 78358
+Last 74785
+
+Right ventricular chamber size is normal
+Number of Documents 4617
+First 73483
+Random 74273
+Last 85699
+
+Right ventricular chamber size and systolic function are normal
+Number of Documents 59
+First 103494
+Random 69633
+Last 62994
+
+Normal RV chamber size and free motion
+Number of Documents 21496
+First 79330
+Random 100975
+Last 91938
+
+Right ventricular chamber size and free motion are normal
+Number of Documents 24403
+First 72510
+Random 79263
+Last 62994
+
+*************************
+MILD_MODERATE
+*************************
+
+Mildly dilated RV cavity
+Number of Documents 2747
+First 84780
+Random 66050
+Last 92092
+
+Dilated RV cavity
+Number of Documents 5964
+First 102075
+Random 90020
+Last 98368
+
+The right ventricular cavity is dilated
+Number of Documents 6870
+First 64709
+Random 72141
+Last 85418
+
+The right ventricular cavity is mildly dilated
+Number of Documents 2997
+First 59760
+Random 87861
+Last 69616
+
+*************************
+SEVERELY
+*************************
+
+Moderately dilated RV cavity
+Number of Documents 1107
+First 77779
+Random 101030
+Last 83604
+
+Markedly dilated RV cavity
+Number of Documents 468
+First 78034
+Random 90364
+Last 85068
+
+The right ventricular cavity is moderately dilated
+Number of Documents 1223
+First 72753
+Random 75452
+Last 83677
+
+The right ventricular cavity is markedly dilated
+Number of Documents 568
+First 59976
+Random 63735
+Last 69556
+
+
+****************************************************************************************************
